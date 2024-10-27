@@ -1,0 +1,9 @@
+[params.author]
+name = "Edwin Kofler"
+image = "images/edwin-kofler.jpg"
+headline = "A developer."
+bio = "I like to build things."
+links = [
+  { github = "https://github.com/hyperupcall" },
+  { bluesky = 'https://bsky.app/profile/hyperupcall.bsky.social' },
+]
