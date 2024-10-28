@@ -4,10 +4,16 @@ Website for the Computing Club at El Camino College. Uses [Hugo](https://gohugo.
 
 ## Usage
 
+Be sure to [install Hugo](https://gohugo.io/installation/) first.
+
 ```sh
+git clone git@github.com:ecc-computing-club/website
+cd website
 hugo serve
 ```
 
+Then, visit `http://localhost:1313/website/` in your browser.
+
 ## Deployment
 
-Automatic, from `main`.
+The [deploy.yml](https://github.com/ecc-computing-club/website/blob/main/.github/workflows/deploy.yml) [GitHub Workflow](https://docs.github.com/en/actions/writing-workflows/about-workflows) is executed whenever commits are pushed to `main`.
