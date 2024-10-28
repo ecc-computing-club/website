@@ -1,12 +1,22 @@
 [[main]]
   name = 'Home'
-  pageRef = '/'
+  pageRef = '_index'
   weight = 10
+
+[[main]]
+  name = 'Events'
+  pageRef = 'events'
+  weight = 11
 
 [[main]]
   name = "Posts"
   pageRef = "posts"
-  weight = 10
+  weight = 12
+
+[[main]]
+  name = 'About'
+  pageRef = 'about'
+  weight = 13
 
 [[main]]
   # name = "Topics"
