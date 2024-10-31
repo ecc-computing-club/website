@@ -9,7 +9,7 @@ Besides regular meetings, the club has several special events coming up!
 
 ## GDSC Collaboration (October 31st)
 
-The Computing Club is collaborating with the GDSC ([Google Develoeprs Student Club](https://developers.google.com/community/gdsc)) for a joint halloween 🎃 meeting!
+The Computing Club is collaborating with the GDSC ([Google Developers Student Club](https://developers.google.com/community/gdsc)) for a joint halloween 🎃 meeting!
 
 The **agenda** will include:
 
@@ -27,7 +27,7 @@ This event is on the [club calendar](https://calendar.google.com/calendar/u/0?ci
 
 ## AWS Deep Racer competition (November 15th)
 
-Computing club and Robotics club are hosting an [AWS Deep Racer](website/static/images/aws-deepracer-competition.png) event. This is a beginner friendly competition which introduces machine learning and reinforcement learning concepts, which are prominent in many generative AI applications today. This AWS DeepRacer event will give you the opportunity to see your ML model training come to life by racing an RC car on a miniature race track.
+Computing club and Robotics club are hosting an [AWS Deep Racer](static/images/aws-deepracer-competition.png) event. This is a beginner friendly competition which introduces machine learning and reinforcement learning concepts, which are prominent in many generative AI applications today. This AWS DeepRacer event will give you the opportunity to see your ML model training come to life by racing an RC car on a miniature race track.
 
 **Date & Time**: Friday, November 15th, 2024 from 12 - 4 pm
 
