@@ -1,11 +1,11 @@
 ---
-title: "Welcome to the El Camino Computing Club! 🧑‍💻"
+title: "Welcome to El Camino College's Computing Club! 🧑‍💻"
 ---
 
 {{< rawhtml >}}
 <div style="display: flex; align-items: center; gap: 20px">
     <img style="border-radius: 5px;" src="/website/images/club-logo.png" width='75px' />
-    <p>The Computing Club is a tech club at <a href='https://www.elcamino.edu/'>El Camino College</a>! Our mission is to promote all aspects of computing and help develop skills that will help members succeed in their technical careers.</p>
+    <p>Computing Club is a tech club at <a href='https://www.elcamino.edu/'>El Camino College</a>! Our mission is to promote all aspects of computing and help develop skills that will help members succeed in their technical careers.</p>
 </div>
 {{< /rawhtml >}}
 
