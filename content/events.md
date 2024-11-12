@@ -7,7 +7,55 @@ date = 2024-10-27T04:59:08-07:00
 Besides regular meetings, the club has several special events coming up!
 {{< /lead >}}
 
-## GDSC Collaboration (October 31st)
+## Hack SC (USC Hackathon)
+
+Club members will be attending [Hack SC](https://www.socaltechweek.com) to hack on code. Hackathon and AI experience not required.
+
+**Date & Time**: November 8th-10th
+
+This event is on the [club calendar](https://calendar.google.com/calendar/u/0?cid=MTZmMjk0YjY3NTc3NTA2NjQ3MDJkZjk0NjhhY2U1MmYyNTNlYTdjNTQxNjY0NjZiZjhhNWY0MTNjYjdiMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+
+---
+
+## AWS Deep Racer competition (November 15th)
+
+**Date & Time**: Friday, November 15th, 2024 from 12-4PM
+
+Computing Club and Robotics Club are hosting an [AWS Deep Racer](static/images/aws-deepracer-competition.png) event. This is a beginner friendly competition that introduces machine learning and reinforcement learning concepts, which are prominent in many generative AI applications today. You'll have the opportunity to see your ML model training come to life by racing an RC car on a miniature race track.
+
+**NOTE**: You must attend the training day on __**Tuesday, November 12 from 12-2 pm at MBA 115**__ to learn how to train a model to prepare for the competition!
+
+_Food and drinks will be provided at both the training day on Tuesday and the competition on Friday!! If you volunteer, you get more food and drinks!!_
+
+_**Link to recorded training session will be posted here after Tuesday, November 12**_
+
+This event is on the [club calendar](https://calendar.google.com/calendar/u/0?cid=MTZmMjk0YjY3NTc3NTA2NjQ3MDJkZjk0NjhhY2U1MmYyNTNlYTdjNTQxNjY0NjZiZjhhNWY0MTNjYjdiMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+
+---
+
+## ScaleUpv4
+
+**Date & Time**: Friday, November 22, 2024 from 9:30AM-2:30PM
+
+**Location**: El Camino College's East Dining Hall (16007 Crenshaw Blvd, Torrance CA)
+
+Open to both high school and college students, ScaleUpv4 is a cybersecurity conference filled with workshops, keynotes by guest speakers, and more! Lunch is provided and no previous experience is necessary.
+
+_Link to event on El Camino's website is coming soon_.
+
+This event is on the [club calendar](https://calendar.google.com/calendar/u/0?cid=MTZmMjk0YjY3NTc3NTA2NjQ3MDJkZjk0NjhhY2U1MmYyNTNlYTdjNTQxNjY0NjZiZjhhNWY0MTNjYjdiMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+
+---
+
+{{< rawhtml >}}
+<hr />
+<details>
+<summary><h2 style="display: inline; position: relative; top: 3px;">Past Events</h2></summary>
+{{< /rawhtml >}}
+
+## GDSC Collaboration
+
+**Date & Time**: Thursday, October 31st, 1:15-2:15pm, MBA 209
 
 The Computing Club is collaborating with the GDSC ([Google Developers Student Club](https://developers.google.com/community/gdsc)) for a joint halloween 🎃 meeting!
 
@@ -19,38 +67,15 @@ The **agenda** will include:
 
 Food and drinks will be provided!
 
-**Date & Time**: Thursday, October 31st, 1:15-2:15pm, MBA 209
-
 This event is on the [club calendar](https://calendar.google.com/calendar/u/0?cid=MTZmMjk0YjY3NTc3NTA2NjQ3MDJkZjk0NjhhY2U1MmYyNTNlYTdjNTQxNjY0NjZiZjhhNWY0MTNjYjdiMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
 ---
 
-## AWS Deep Racer competition (November 15th)
-
-Computing club and Robotics club are hosting an [AWS Deep Racer](static/images/aws-deepracer-competition.png) event. This is a beginner friendly competition which introduces machine learning and reinforcement learning concepts, which are prominent in many generative AI applications today. This AWS DeepRacer event will give you the opportunity to see your ML model training come to life by racing an RC car on a miniature race track.
-
-**Date & Time**: Friday, November 15th, 2024 from 12 - 4 pm
-
-**NOTE**: You must attend the training day on __**Tuesday, November 12 from 12-2 pm at MBA 115**__ to learn how to train a model to prepare for the competition!
-
-_Food and drinks will be provided at both the training day on Tuesday and the competition on Friday!! If you volunteer, you get more food and drinks!!_
-
-_**Link to recorded training session will be posted here after Tuesday, November 12**_
-
-This event is on the [club calendar](https://calendar.google.com/calendar/u/0?cid=MTZmMjk0YjY3NTc3NTA2NjQ3MDJkZjk0NjhhY2U1MmYyNTNlYTdjNTQxNjY0NjZiZjhhNWY0MTNjYjdiMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
-
-{{< rawhtml >}}
-<hr />
-<details>
-<summary><h2 style="display: inline; position: relative; top: 3px;">Past Events</h2></summary>
-{{< /rawhtml >}}
-
-## Cerebral Hacks (October 2024)
-
-Club members will be attending [Cerebral Beach Hacks](https://hack.cerebralbeach.com) to hack on code related to AI. Hackathon and AI experience not required.
+## Cerebral Hacks
 
 **Date & Time**: October 12-13th @ Santa Monica
 
+Club members will be attending [Cerebral Beach Hacks](https://hack.cerebralbeach.com) to hack on code related to AI. Hackathon and AI experience not required.
 
 {{< rawhtml >}}
 </details>
