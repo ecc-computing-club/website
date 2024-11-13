@@ -7,16 +7,6 @@ date = 2024-10-27T04:59:08-07:00
 Besides regular meetings, the club has several special events coming up!
 {{< /lead >}}
 
-## Hack SC (USC Hackathon)
-
-Club members will be attending [Hack SC](https://www.socaltechweek.com) to hack on code. Hackathon and AI experience not required.
-
-**Date & Time**: November 8th-10th
-
-This event is on the [club calendar](https://calendar.google.com/calendar/u/0?cid=MTZmMjk0YjY3NTc3NTA2NjQ3MDJkZjk0NjhhY2U1MmYyNTNlYTdjNTQxNjY0NjZiZjhhNWY0MTNjYjdiMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
-
----
-
 ## AWS Deep Racer competition (November 15th)
 
 **Date & Time**: Friday, November 15th, 2024 from 12-4PM
@@ -27,7 +17,11 @@ Computing Club and Robotics Club are hosting an [AWS Deep Racer](static/images/a
 
 _Food and drinks will be provided at both the training day on Tuesday and the competition on Friday!! If you volunteer, you get more food and drinks!!_
 
-_**Link to recorded training session will be posted here after Tuesday, November 12**_
+**Remember you must have two models trained and ready for the competition on Friday!!**
+
+**[Recorded training video--first step](https://drive.google.com/file/d/1UY2AV3j7wtVWxR9oTRMd0EPQORd6QBbr/view?usp=drive_link)**
+
+**[Recorded evaluation video--second step](https://drive.google.com/file/d/1-4ahBE6UuZY1oZoL4rYu2FGnZSDtaYUl/view?usp=drive_link)**
 
 This event is on the [club calendar](https://calendar.google.com/calendar/u/0?cid=MTZmMjk0YjY3NTc3NTA2NjQ3MDJkZjk0NjhhY2U1MmYyNTNlYTdjNTQxNjY0NjZiZjhhNWY0MTNjYjdiMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
@@ -52,6 +46,18 @@ This event is on the [club calendar](https://calendar.google.com/calendar/u/0?ci
 <details>
 <summary><h2 style="display: inline; position: relative; top: 3px;">Past Events</h2></summary>
 {{< /rawhtml >}}
+  
+--
+
+## Hack SC (USC Hackathon)
+
+Club members will be attending [Hack SC](https://www.socaltechweek.com) to create projects with other participants. Hackathons are great for portfolio building and look great on resumes. Previous experience not required and completely beginner friendly!
+
+**Date & Time**: November 8th-10th
+
+This event is on the [club calendar](https://calendar.google.com/calendar/u/0?cid=MTZmMjk0YjY3NTc3NTA2NjQ3MDJkZjk0NjhhY2U1MmYyNTNlYTdjNTQxNjY0NjZiZjhhNWY0MTNjYjdiMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+
+---
 
 ## GDSC Collaboration
 
