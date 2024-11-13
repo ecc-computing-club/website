@@ -35,7 +35,7 @@ This event is on the [club calendar](https://calendar.google.com/calendar/u/0?ci
 
 Open to both high school and college students, ScaleUpv4 is a cybersecurity conference filled with workshops, keynotes by guest speakers, and more! Lunch is provided and no previous experience is necessary.
 
-_Link to event on El Camino's website is coming soon_.
+**[More details here](https://drive.google.com/file/d/1XV7_INOhMsHjafCVfx-FnktgCf8OJIwU/view?usp=sharing)**
 
 This event is on the [club calendar](https://calendar.google.com/calendar/u/0?cid=MTZmMjk0YjY3NTc3NTA2NjQ3MDJkZjk0NjhhY2U1MmYyNTNlYTdjNTQxNjY0NjZiZjhhNWY0MTNjYjdiMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
