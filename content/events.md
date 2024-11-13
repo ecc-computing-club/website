@@ -39,15 +39,13 @@ Open to both high school and college students, ScaleUpv4 is a cybersecurity conf
 
 This event is on the [club calendar](https://calendar.google.com/calendar/u/0?cid=MTZmMjk0YjY3NTc3NTA2NjQ3MDJkZjk0NjhhY2U1MmYyNTNlYTdjNTQxNjY0NjZiZjhhNWY0MTNjYjdiMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
----
 
 {{< rawhtml >}}
 <hr />
 <details>
 <summary><h2 style="display: inline; position: relative; top: 3px;">Past Events</h2></summary>
 {{< /rawhtml >}}
-  
---
+
 
 ## Hack SC (USC Hackathon)
 
