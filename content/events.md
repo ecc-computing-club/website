@@ -19,9 +19,9 @@ _Food and drinks will be provided at both the training day on Tuesday and the co
 
 **Remember you must have two models trained and ready for the competition on Friday!!**
 
-**[Recorded training video--first step](https://drive.google.com/file/d/1UY2AV3j7wtVWxR9oTRMd0EPQORd6QBbr/view?usp=drive_link)**
+**[FIRST STEP: Recorded training video](https://drive.google.com/file/d/1UY2AV3j7wtVWxR9oTRMd0EPQORd6QBbr/view?usp=drive_link)**
 
-**[Recorded evaluation video--second step](https://drive.google.com/file/d/1-4ahBE6UuZY1oZoL4rYu2FGnZSDtaYUl/view?usp=drive_link)**
+**[SECOND STEP: Recorded evaluation video](https://drive.google.com/file/d/1-4ahBE6UuZY1oZoL4rYu2FGnZSDtaYUl/view?usp=drive_link)**
 
 This event is on the [club calendar](https://calendar.google.com/calendar/u/0?cid=MTZmMjk0YjY3NTc3NTA2NjQ3MDJkZjk0NjhhY2U1MmYyNTNlYTdjNTQxNjY0NjZiZjhhNWY0MTNjYjdiMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
