@@ -7,6 +7,30 @@ date = 2024-10-27T04:59:08-07:00
 Besides regular meetings, the club has several special events coming up!
 {{< /lead >}}
 
+
+## We have now officially concluded all events for the Fall 2024 semester. Good luck on finals and we hope to see all of you in the spring!! Visit the [Resources](https://ecc-computing-club.github.io/website/resources/) page for more opportunities and outside events.
+
+
+{{< rawhtml >}}
+<hr />
+<details>
+<summary><h2 style="display: inline; position: relative; top: 3px;">Past Events</h2></summary>
+{{< /rawhtml >}}
+
+## ScaleUpv4
+
+**Date & Time**: Friday, November 22, 2024 from 9:30AM-2:30PM
+
+**Location**: El Camino College's East Dining Hall (16007 Crenshaw Blvd, Torrance CA)
+
+Open to both high school and college students, ScaleUpv4 is a cybersecurity conference filled with workshops, keynotes by guest speakers, and more! Lunch is provided and no previous experience is necessary.
+
+**[More details here](https://drive.google.com/file/d/1XV7_INOhMsHjafCVfx-FnktgCf8OJIwU/view?usp=sharing)**
+
+This event is on the [club calendar](https://calendar.google.com/calendar/u/0?cid=MTZmMjk0YjY3NTc3NTA2NjQ3MDJkZjk0NjhhY2U1MmYyNTNlYTdjNTQxNjY0NjZiZjhhNWY0MTNjYjdiMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+
+---
+
 ## AWS Deep Racer competition (November 15th)
 
 **Date & Time**: Friday, November 15th, 2024 from 12-4PM
@@ -26,26 +50,6 @@ _Food and drinks will be provided at both the training day on Tuesday and the co
 This event is on the [club calendar](https://calendar.google.com/calendar/u/0?cid=MTZmMjk0YjY3NTc3NTA2NjQ3MDJkZjk0NjhhY2U1MmYyNTNlYTdjNTQxNjY0NjZiZjhhNWY0MTNjYjdiMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
 ---
-
-## ScaleUpv4
-
-**Date & Time**: Friday, November 22, 2024 from 9:30AM-2:30PM
-
-**Location**: El Camino College's East Dining Hall (16007 Crenshaw Blvd, Torrance CA)
-
-Open to both high school and college students, ScaleUpv4 is a cybersecurity conference filled with workshops, keynotes by guest speakers, and more! Lunch is provided and no previous experience is necessary.
-
-**[More details here](https://drive.google.com/file/d/1XV7_INOhMsHjafCVfx-FnktgCf8OJIwU/view?usp=sharing)**
-
-This event is on the [club calendar](https://calendar.google.com/calendar/u/0?cid=MTZmMjk0YjY3NTc3NTA2NjQ3MDJkZjk0NjhhY2U1MmYyNTNlYTdjNTQxNjY0NjZiZjhhNWY0MTNjYjdiMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
-
-
-{{< rawhtml >}}
-<hr />
-<details>
-<summary><h2 style="display: inline; position: relative; top: 3px;">Past Events</h2></summary>
-{{< /rawhtml >}}
-
 
 ## Hack SC (USC Hackathon)
 
