@@ -35,7 +35,7 @@ This event is on the [club calendar](https://calendar.google.com/calendar/u/0?ci
 
 **Date & Time**: Friday, November 15th, 2024 from 12-4PM
 
-Computing Club and Robotics Club are hosting an [AWS Deep Racer](static/images/aws-deepracer-competition.png) event. This is a beginner friendly competition that introduces machine learning and reinforcement learning concepts, which are prominent in many generative AI applications today. You'll have the opportunity to see your ML model training come to life by racing an RC car on a miniature race track.
+Computing Club and Robotics Club are hosting an [AWS Deep Racer](https://drive.google.com/file/d/1022vqKsm_nSUg_zFqxAqpNxTClHTUL9u/view?usp=sharing) event. This is a beginner friendly competition that introduces machine learning and reinforcement learning concepts, which are prominent in many generative AI applications today. You'll have the opportunity to see your ML model training come to life by racing an RC car on a miniature race track.
 
 **NOTE**: You must attend the training day on __**Tuesday, November 12 from 12-2 pm at MBA 115**__ to learn how to train a model to prepare for the competition!
 
