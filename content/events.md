@@ -8,7 +8,9 @@ Besides regular meetings, the club has several special events coming up!
 {{< /lead >}}
 
 
-## We have now officially concluded all events for the Fall 2024 semester. Good luck on finals and we hope to see all of you in the spring!! Visit the [Resources](https://ecc-computing-club.github.io/website/resources/) page for more opportunities and outside events.
+## WELCOME BACK TO THE SPRING 2025 SEMESTER!!! We have some amazing events planned for this semester to be announced at our first meeting! (To be announced soon + added to calendar)
+
+In the meantime, visit the [Resources](https://ecc-computing-club.github.io/website/resources/) page for more opportunities and outside events.
 
 
 {{< rawhtml >}}
