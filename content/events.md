@@ -8,7 +8,7 @@ Besides regular meetings, the club has several special events coming up!
 {{< /lead >}}
 
 
-## WELCOME BACK TO THE SPRING 2025 SEMESTER!!! We have some amazing events planned for this semester to be announced at our first meeting! (To be announced soon + added to calendar)
+## WELCOME BACK TO THE SPRING 2025 SEMESTER!!! We have some amazing events planned for this semester (to be announced soon + added to calendar)!!!
 
 In the meantime, visit the [Resources](https://ecc-computing-club.github.io/website/resources/) page for more opportunities and outside events.
 
