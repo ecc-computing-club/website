@@ -16,4 +16,4 @@ Then, visit `http://localhost:1313/website/` in your browser.
 
 ## Deployment
 
-The [deploy.yml](https://github.com/ecc-computing-club/website/blob/main/.github/workflows/deploy.yml) [GitHub Workflow](https://docs.github.com/en/actions/writing-workflows/about-workflows) is executed whenever commits are pushed to `main`.
+The [github-pages.yaml](https://github.com/ecc-computing-club/website/blob/main/.github/workflows/github-pages.yaml) [GitHub Workflow](https://docs.github.com/en/actions/writing-workflows/about-workflows) is executed whenever commits are pushed to `main`.
