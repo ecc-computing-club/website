@@ -1,5 +1,5 @@
 ---
-title: "Welcome to El Camino College's Computing Club! 🧑‍💻"
+title: "Welcome to Computing Club @ El Camino College! 🧑‍💻"
 ---
 
 {{< rawhtml >}}
