@@ -8,10 +8,17 @@ Besides regular meetings, the club has several special events coming up!
 {{< /lead >}}
 
 
-## WELCOME BACK TO THE SPRING 2025 SEMESTER!!! We have some amazing events planned for this semester (to be announced soon + added to calendar)!!!
+## National Cyber League (NCL) Competition
 
-In the meantime, visit the [Resources](https://ecc-computing-club.github.io/website/resources/) page for more opportunities and outside events.
+**Individual Competition**: April 11-13, 2025
 
+**Team Competition**: April 25-27, 2025
+
+**Location**: El Camino College, Rooms TBD
+
+**[More details here](https://drive.google.com/file/d/1ABiaDfPUdI5_ZBot5UkSy1w7Ejbwsrj_/view?usp=sharing)**
+
+This event is on the [club calendar](https://calendar.google.com/calendar/u/0?cid=MTZmMjk0YjY3NTc3NTA2NjQ3MDJkZjk0NjhhY2U1MmYyNTNlYTdjNTQxNjY0NjZiZjhhNWY0MTNjYjdiMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
 {{< rawhtml >}}
 <hr />
