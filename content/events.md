@@ -14,13 +14,13 @@ The NCL is a nationwide cybersecurity competition where students like YOU get ha
 
 **REGISTRATION DEADLINE: FRIDAY, MARCH 14, 2025**
 
+**ORIENTATION (will have more information): Mar 20th 1pm-2pm  @ MBA 208**
+
 **Individual Competition**: April 11-13, 2025
 
 **Team Competition**: April 25-27, 2025
 
 **Location**: El Camino College, Rooms TBD
-
-**Orientation**: Mar 20th 1pm-2pm  @ MBA 208
 
 **[More details + registration here](https://drive.google.com/file/d/1ABiaDfPUdI5_ZBot5UkSy1w7Ejbwsrj_/view?usp=sharing)**
 
