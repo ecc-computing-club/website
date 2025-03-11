@@ -10,13 +10,15 @@ Besides regular meetings, the club has several special events coming up!
 
 ## National Cyber League (NCL) Competition
 
+The NCL is a nationwide cybersecurity competition where students like YOU get hands-on experience solving real-world security challenges—like hacking passwords, analyzing network traffic, and even cracking cryptography puzzles. Whether you're a total beginner or a cyber pro, there’s a challenge for everyone!
+
 **Individual Competition**: April 11-13, 2025
 
 **Team Competition**: April 25-27, 2025
 
 **Location**: El Camino College, Rooms TBD
 
-**[More details here](https://drive.google.com/file/d/1ABiaDfPUdI5_ZBot5UkSy1w7Ejbwsrj_/view?usp=sharing)**
+**[More details + registration here](https://drive.google.com/file/d/1ABiaDfPUdI5_ZBot5UkSy1w7Ejbwsrj_/view?usp=sharing)**
 
 This event is on the [club calendar](https://calendar.google.com/calendar/u/0?cid=MTZmMjk0YjY3NTc3NTA2NjQ3MDJkZjk0NjhhY2U1MmYyNTNlYTdjNTQxNjY0NjZiZjhhNWY0MTNjYjdiMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
