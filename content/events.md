@@ -12,11 +12,15 @@ Besides regular meetings, the club has several special events coming up!
 
 The NCL is a nationwide cybersecurity competition where students like YOU get hands-on experience solving real-world security challenges—like hacking passwords, analyzing network traffic, and even cracking cryptography puzzles. Whether you're a total beginner or a cyber pro, there’s a challenge for everyone!
 
+**REGISTRATION DEADLINE: FRIDAY, MARCH 14, 2025**
+
 **Individual Competition**: April 11-13, 2025
 
 **Team Competition**: April 25-27, 2025
 
 **Location**: El Camino College, Rooms TBD
+
+**Orientation**: Mar 20th 1pm-2pm  @ MBA 208
 
 **[More details + registration here](https://drive.google.com/file/d/1ABiaDfPUdI5_ZBot5UkSy1w7Ejbwsrj_/view?usp=sharing)**
 
