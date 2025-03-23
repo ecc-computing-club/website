@@ -10,7 +10,7 @@ title: "Welcome to Computing Club @ El Camino College! 🧑‍💻"
 {{< /rawhtml >}}
 
 {{< lead >}}
-Our meeting 📅 times:
+Our meeting + event 📅 times:
 {{< /lead >}}
 
 {{< rawhtml >}}
