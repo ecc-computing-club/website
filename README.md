@@ -6,6 +6,9 @@ Website for the Computing Club at El Camino College. Uses [Hugo](https://gohugo.
 
 Be sure to [install Hugo](https://gohugo.io/installation/) first.
 
+> [!WARNING]
+> Your hugo version must be _less than_ v0.146.0. See [this issue](https://github.com/jpanther/congo/issues/1049) for details.
+
 ```sh
 git clone git@github.com:ecc-computing-club/website
 cd website
