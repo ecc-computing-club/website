@@ -1,9 +1,12 @@
 [params.author]
-name = "Edwin Kofler"
-image = "images/edwin-kofler.jpg"
-headline = ""
-bio = "I like to build things with code."
+name = 'ECC Computing Club Contributors'
+image = '/images/club-logo.png'
+headline = ''
+bio = ''
 links = [
-  { github = "https://github.com/hyperupcall" },
-  { bluesky = 'https://bsky.app/profile/hyperupcall.bsky.social' },
+	{ github = 'https://github.com/hyperupcall' },
+	{ bluesky = 'https://bsky.app/profile/hyperupcall.bsky.social' },
 ]
+
+[params.footer]
+showCopyright = false
