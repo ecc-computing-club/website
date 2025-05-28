@@ -30,7 +30,7 @@
 
 [[main]]
   name = "GitHub"
-  url = "https://github.com/ecc-cs-club/website"
+  url = "https://github.com/ecc-computing-club/website"
   weight = 95
   [main.params]
     icon = "github"
