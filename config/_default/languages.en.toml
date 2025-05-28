@@ -5,6 +5,7 @@ headline = ''
 bio = ''
 links = [
 	{ github = 'https://github.com/hyperupcall' },
+	{ github = 'https://github.com/shubhangibw' }
 ]
 
 [params.footer]
