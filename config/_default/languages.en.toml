@@ -4,8 +4,8 @@ image = '/images/club-logo.png'
 headline = ''
 bio = ''
 links = [
-	{ github = 'https://github.com/hyperupcall' },
-	{ bluesky = 'https://bsky.app/profile/hyperupcall.bsky.social' },
+	{ engage = 'https://elcamino.campuslabs.com/engage/organization/computerinformationsystems' },
+	{ discord = 'https://discord.gg/pcRzzAESWJ' },
 ]
 
 [params.footer]
