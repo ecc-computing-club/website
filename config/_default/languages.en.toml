@@ -4,8 +4,7 @@ image = '/images/club-logo.png'
 headline = ''
 bio = ''
 links = [
-	{ engage = 'https://elcamino.campuslabs.com/engage/organization/computerinformationsystems' },
-	{ discord = 'https://discord.gg/pcRzzAESWJ' },
+	{ github = 'https://github.com/hyperupcall' },
 ]
 
 [params.footer]
