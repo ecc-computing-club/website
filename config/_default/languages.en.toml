@@ -1,8 +1,8 @@
 [params.author]
 name = 'ECC Computing Club Contributors'
 image = '/images/club-logo.png'
-headline = ''
-bio = ''
+headline = 'if you want to go fast, go alone. if you want to go far, go together.'
+bio = 'Check out who the website contributors are!'
 links = [
 	{ github = 'https://github.com/hyperupcall' },
 	{ github = 'https://github.com/shubhangibw' }
