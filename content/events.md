@@ -7,6 +7,14 @@ date = 2024-10-27T04:59:08-07:00
 Besides regular meetings, the club has several special events coming up!
 {{< /lead >}}
 
+Check out our [conclusion post](/posts/2024-2025_conclusion.md)
+
+
+{{< rawhtml >}}
+<hr />
+<details>
+<summary><h2 style="display: inline; position: relative; top: 3px;">Past Events</h2></summary>
+{{< /rawhtml >}}
 
 ## National Cyber League (NCL) Competition
 
@@ -25,12 +33,6 @@ The NCL is a nationwide cybersecurity competition where students like YOU get ha
 **[More details + registration here](https://drive.google.com/file/d/1ABiaDfPUdI5_ZBot5UkSy1w7Ejbwsrj_/view?usp=sharing)**
 
 This event is on the [club calendar](https://calendar.google.com/calendar/u/0?cid=MTZmMjk0YjY3NTc3NTA2NjQ3MDJkZjk0NjhhY2U1MmYyNTNlYTdjNTQxNjY0NjZiZjhhNWY0MTNjYjdiMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
-
-{{< rawhtml >}}
-<hr />
-<details>
-<summary><h2 style="display: inline; position: relative; top: 3px;">Past Events</h2></summary>
-{{< /rawhtml >}}
 
 ## ScaleUpv4
 
