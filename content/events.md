@@ -9,9 +9,23 @@ Besides regular meetings, the club has several special events coming up!
 {{< /lead >}}
 -->
 
-No events to see here! 
+## National Cyber League (NCL) Competition
 
-Check out our [conclusion post](/posts/2024-2025_conclusion.md) to find out why...
+The NCL is a nationwide cybersecurity competition where students like YOU get hands-on experience solving real-world security challenges—like hacking passwords, analyzing network traffic, and even cracking cryptography puzzles. Whether you're a total beginner or a cyber pro, there’s a challenge for everyone!
+
+**REGISTRATION DEADLINE: FRIDAY, MARCH 13, 2026**
+
+**ORIENTATION (will have more information): Mar 19th 12pm-1pm  @ MBA 208**
+
+**Individual Competition**: April 10-12, 2026
+
+**Team Competition**: April 24-26, 2026
+
+**Location**: El Camino College + [Discord](https://discord.com/invite/pcRzzAESWJ)
+
+**[More details + registration here](https://docs.google.com/forms/d/e/1FAIpQLSemw4BGa014bBBAq-vpSNWQa7rItc-6dMQVFAL6UpJDwZ9daQ/viewform)**
+
+This event is on the [club calendar](https://calendar.google.com/calendar/u/0?cid=MTZmMjk0YjY3NTc3NTA2NjQ3MDJkZjk0NjhhY2U1MmYyNTNlYTdjNTQxNjY0NjZiZjhhNWY0MTNjYjdiMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
 
 {{< rawhtml >}}
