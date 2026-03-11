@@ -3,11 +3,6 @@ title = 'Events 🎂'
 date = 2024-10-27T04:59:08-07:00
 +++
 
-<!--
-{{< lead >}}
-Besides regular meetings, the club has several special events coming up!
-{{< /lead >}}
--->
 
 ## National Cyber League (NCL) Competition
 
